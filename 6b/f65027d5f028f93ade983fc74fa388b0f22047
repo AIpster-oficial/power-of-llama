@@ -1,0 +1,14 @@
+README.md
+  h_1070957731a731 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "6bf65027d5f028f93ade983fc74fa388b0f22047",
+  "prompts": {},
+  "humans": {
+    "h_1070957731a731": {
+      "author": "Bruno Sofiato <bruno.sofiato@matera.com>"
+    }
+  }
+}

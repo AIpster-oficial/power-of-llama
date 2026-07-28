@@ -1,0 +1,19 @@
+.gitignore
+  s_bb35c03393be5d::t_387884e94a03ea 1-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "5ec489a3ccbc4271ce33b7412c48e84f2926600e",
+  "prompts": {},
+  "sessions": {
+    "s_bb35c03393be5d": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fa932-6d86-7518-a90f-c0244b819ffe",
+        "model": "qwen3.6-35b-a3b-mtp-q4-k-ik-llama-cpp"
+      },
+      "human_author": "Bruno Sofiato <bruno.sofiato@matera.com>"
+    }
+  }
+}

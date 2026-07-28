@@ -1,0 +1,36 @@
+.gitignore
+  s_02542ebeb24852::t_b5923ac6a85b5e 82
+  h_1070957731a731 83
+  s_02542ebeb24852::t_2995efb61da8c7 81
+README.md
+  s_5c1aebccf44e4c::t_3749e8a4f58e36 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "13d55f6c186729c72ebc1f50301457339df42ba9",
+  "prompts": {},
+  "humans": {
+    "h_1070957731a731": {
+      "author": "Bruno Sofiato <bruno.sofiato@matera.com>"
+    }
+  },
+  "sessions": {
+    "s_02542ebeb24852": {
+      "agent_id": {
+        "tool": "github-copilot-tab",
+        "id": "ai_tab-1785259247488",
+        "model": "default"
+      },
+      "human_author": "Bruno Sofiato <bruno.sofiato@matera.com>"
+    },
+    "s_5c1aebccf44e4c": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fa9be-ae81-7835-a206-c2e534725d1c",
+        "model": "qwen3.6-35b-a3b-mtp-q4-k-ik-llama-cpp"
+      },
+      "human_author": "Bruno Sofiato <bruno.sofiato@matera.com>"
+    }
+  }
+}

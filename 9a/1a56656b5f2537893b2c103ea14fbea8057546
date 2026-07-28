@@ -1,0 +1,56 @@
+part-5/searxng/core-config/settings.yml
+  s_6fbaaf120b2cea::t_5d6672b3356a58 7
+  s_6fbaaf120b2cea::t_329c03562f5f09 1-3
+  s_6fbaaf120b2cea::t_1b69f6da65c98d 4-6
+  s_6fbaaf120b2cea::t_92218ffbea406d 8-10
+  s_6fbaaf120b2cea::t_30ae89f16999cd 11-13
+part-5/searxng/README.md
+  s_6fbaaf120b2cea::t_eb51da1a327045 29-38
+  s_6fbaaf120b2cea::t_b8e3400a0de375 1-18,27-28,39-57,59,72-101
+  s_6fbaaf120b2cea::t_9afb9009603a69 19-26
+  s_6fbaaf120b2cea::t_e2aaf56e627a6c 58,66-71
+  s_6fbaaf120b2cea::t_565da926c4a9bf 60-61
+  s_6fbaaf120b2cea::t_dd603f82b95559 62-64
+  s_6fbaaf120b2cea::t_8d6bcdd098b63b 65
+part-5/naive-harness/README.md
+  s_6fbaaf120b2cea::t_9034612def48a6 97,99-107
+  s_6fbaaf120b2cea::t_cac7df675efaf9 74,77-90,93-96,98,108
+  s_6fbaaf120b2cea::t_8c3a78c6643285 109-142,145
+  s_6fbaaf120b2cea::t_19246051d5ffc8 52,58
+  s_29a39a96798889::t_2693d66b7da4dd 3-4,7-12,20-29
+  s_29a39a96798889::t_0a7933f729d0be 38-46,49
+  s_6fbaaf120b2cea::t_eae7d10b3e58a5 59
+  s_6fbaaf120b2cea::t_3c0110536b055c 56
+README.md
+  s_6fbaaf120b2cea::t_a4fda32fccf67f 20-25,27-28,30,32,34
+  s_6fbaaf120b2cea::t_79091fbc9bb234 35
+  s_6fbaaf120b2cea::t_cdd9dfb195816f 43-44
+  s_6fbaaf120b2cea::t_2df1fe5c1dce85 26
+  s_6fbaaf120b2cea::t_f97362947f926e 1-19,29,31,33,36-42,45-47
+.playwright-mcp/page-2026-07-28T15-20-28-807Z.yml
+  s_6fbaaf120b2cea::t_846872392a5b86 1-325
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "9a1a56656b5f2537893b2c103ea14fbea8057546",
+  "prompts": {},
+  "sessions": {
+    "s_29a39a96798889": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fa938-99de-74e5-9856-74292d6900d4",
+        "model": "qwen3.6-35b-a3b-mtp-q4-k-ik-llama-cpp"
+      },
+      "human_author": "Bruno Sofiato <bruno.sofiato@matera.com>"
+    },
+    "s_6fbaaf120b2cea": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "019fa93d-a529-730c-848d-5b7df89ad669",
+        "model": "qwen3.6-35b-a3b-mtp-q4-k-ik-llama-cpp"
+      },
+      "human_author": "Bruno Sofiato <bruno.sofiato@matera.com>"
+    }
+  }
+}

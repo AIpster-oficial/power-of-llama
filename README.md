@@ -25,7 +25,7 @@ Each part pairs theory with hands-on code so you can follow along on your own ma
 | 2 | [From Terminal to a ChatGPT-Style Chat](https://aipster.com/tutorials/open-webui-for-ollama-better-local-llm-interface/) | 2026-07-06 | Open WebUI setup, token theory, embeddings, and an introduction to multimodal models like Gemma 4. |
 | 3 | [The Facts and the Reason](https://aipster.com/tutorials/how-to-stop-llm-hallucinations-with-rag-in-open-webui/) | 2026-07-13 | Why LLMs hallucinate, how RAG (Retrieval-Augmented Generation) provides context to reduce mistakes, and the reasoning behind model behavior. |
 | 4 | [Does Size Really Matter?](https://aipster.com/tutorials/the-power-of-llama-part-4-does-size-really-matter/) | 2026-07-20 | Parameter counts, MoE vs. dense architectures, reasoning vs. instruct models, and how to choose the right model for your hardware. |
-| 5 | Building a Naive Harness | **TBD** | Code companion — building a minimal OpenAI-compatible harness with SearXNG search delegation. |
+| 5 | [It's Just Text](https://aipster.com/tutorials/the-power-of-llama-part-5-its-just-text/) | 2026-07-29 | Code companion — building a minimal OpenAI-compatible harness with SearXNG search delegation. |
 
 ## Artifacts
 
